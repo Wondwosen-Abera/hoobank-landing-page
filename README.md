@@ -4,7 +4,7 @@
 
 🚀 Welcome to Hoobank, a sleek and fully responsive landing page built using React and Tailwind CSS! 🌐✨
 
-🔗 Live Demo: [Visit my Portfolio](https://hoobankhome.netlify.app/)
+🔗 Live Demo: [Here](https://hoobankhome.netlify.app/)
 
 📌 Features
 ✅ Fully Responsive – Works on all devices, from mobile to desktop.  
@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/Wondwosen-Abera/hoobank-landing-page.git
-cd portfolio
+cd hoobank-landing-page
 ```
 
 2️⃣ Install dependencies
