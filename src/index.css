@@ -68,6 +68,18 @@ body {
   );
 }
 
+.btn:hover {
+  background: linear-gradient(
+    157.81deg,
+    rgba(222, 249, 250, 0.8) -43.27%,
+    rgba(190, 243, 245, 0.8) -21.24%,
+    rgba(157, 237, 240, 0.8) 12.19%,
+    rgba(125, 231, 235, 0.8) 29.82%,
+    rgba(92, 225, 230, 0.8) 51.94%,
+    rgba(51, 187, 207, 0.8) 90.29%
+  );
+}
+
 .bg-black-gradient {
   background: linear-gradient(
     144.39deg,
@@ -179,5 +191,5 @@ body {
 }
 
 .nav-link {
-  @apply grid items-center h-9 px-6 text-base font-normal leading-[20.8px] text-dim-white hover:text-white transition-colors;
+  @apply grid items-center h-9 px-6 text-base font-normal leading-[20.8px] text-dim-white hover:text-secondary transition-colors;
 }

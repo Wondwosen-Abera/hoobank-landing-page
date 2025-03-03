@@ -8,7 +8,13 @@ const Footer = () => {
         <div className="grid grid-cols-3 gap-12 sm:grid-cols-4 sm:gap-16 md:grid-cols-5 md:gap-24 mb-12 sm:mb-24]">
           <div className="flex flex-col space-y-[24px] col-span-3 sm:col-span-2">
             <a href="" className="">
-              <img src={logo} width={265} height={73} alt="logo" className="" />
+              <img
+                src={logo}
+                width={180}
+                height={50}
+                alt="logo"
+                className="sm:w-[265px] sm:h-[73px]"
+              />
             </a>
             <p className="font-normal text-lg text-dim-white md:max-w-[500px]">
               A new way to make the payments easy, reliable and secure.
@@ -26,10 +32,10 @@ const Footer = () => {
                   {links.map((item, key) => {
                     const { name, link } = item;
                     return (
-                      <li key={key}>
+                      <li key={key} className="">
                         <a
                           href={link}
-                          className="font-normal text-base text-dim-white leading-[24px]"
+                          className="font-normal text-base text-dim-white leading-[24px] hover:text-secondary"
                         >
                           {name}
                         </a>
@@ -42,7 +48,7 @@ const Footer = () => {
           })}
         </div>
         <hr className="horizontal-line" />
-        <div className="flex justify-between mt-[15px] sm:mt-[30px]">
+        <div className="flex-col space-y-8 mt-[15px] sm:mt-[30px] sm:flex md:flex-row md:justify-between md:items-center md:space-y-0">
           <div className="flex items-center justify-center gap-[6px] sm:gap-[15px]">
             <span className="font-[Abel] font-normal text-lg text-dim-white">
               Copyright
@@ -52,12 +58,12 @@ const Footer = () => {
               2025 HooBank. All Rights Reserved.
             </span>
           </div>
-          <div className="flex gap-4 md:gap-[30px] items-center justify-center">
+          <div className="flex gap-8 sm:gap-10 md:gap-[30px] items-center justify-center">
             {socialMedia.map((social) => {
               const { id, icon, link } = social;
               return (
                 <a href={link} key={id} target="_blank" rel="noreferrer">
-                  <img src={icon} alt={id} className="" />
+                  <img src={icon} alt={id} className="hover:fill-secondary" />
                 </a>
               );
             })}

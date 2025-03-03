@@ -4,7 +4,7 @@ import { apple, google, bill } from "../assets/index";
 
 const Billing = () => {
   return (
-    <section className="billing px-6 sm:pl-20 mt-24 md:mt-44" id="billing">
+    <section className="billing px-6 sm:pl-20 mt-24 md:mt-44" id="product">
       <div className="grid grid-cols-1 gap-[70px] md:grid-cols-2 md:gap-[150px]">
         <div className="flex flex-col justify-center space-y-8 md:order-2">
           <h3 className="text-4xl md:text-5xl font-semibold leading-[60px] md:leading-[70px]">

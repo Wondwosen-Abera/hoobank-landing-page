@@ -35,7 +35,13 @@ const Hero = () => {
           />
         </div>
         <button className="cursor-pointer mx-auto md:absolute md:top-[253px]">
-          <img src={GetStarted} alt="" width={140} height={140} className="" />
+          <img
+            src={GetStarted}
+            alt="GetStarted"
+            width={140}
+            height={140}
+            className=""
+          />
         </button>
       </div>
     </section>

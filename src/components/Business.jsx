@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const Business = () => {
   return (
-    <section className="features mt-24 md:mt-44" id="business">
+    <section className="features mt-24 md:mt-44" id="features">
       <div className="px-6 sm:pl-20 grid grid-cols-1 gap-[70px] md:grid-cols-2 md:gap-[150px]">
         <div className="flex items-start flex-col justify-center space-y-[24px]">
           <h2 className="text-4xl md:text-5xl font-semibold leading-[60px] md:leading-[70px]">

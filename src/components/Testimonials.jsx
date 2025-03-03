@@ -4,7 +4,7 @@ import { quotes } from "../assets/index";
 
 const Testimonials = () => {
   return (
-    <section className="testimonials px-6 sm:px-20 mt-24 md:mt-44">
+    <section className="testimonials px-6 sm:px-20 mt-24 md:mt-44" id="clients">
       <div className="flex flex-col space-y-[80px]">
         <div className="flex flex-col space-y-[24px] items-center justify-between md:flex-row">
           <h3 className="text-4xl md:text-5xl font-semibold leading-[60px] md:leading-[70px] md:max-w-[470px]">
