@@ -18,11 +18,15 @@
 ✅ Smooth Animations – Engaging user interactions.  
 
 🛠️ Technologies Used  
+
+  
 ⚛️ React – Component-based UI development  
 🎨 Tailwind CSS – Rapid styling with utility classes  
 ⚡ Vite – Super-fast development and hot reloading  
 
-🚀 Installation & Setup    
+🚀 Installation & Setup  
+
+  
 1️⃣ Clone the repository  
 
 ```bash
@@ -48,5 +52,7 @@ npm run dev
 npm run build
 ```
 
-👏 Feel free to fork, star ⭐, and contribute!    
-Would love to hear your thoughts! 😃🚀
+👏 Feel free to fork, star ⭐, and contribute!  
+
+Would love to hear your thoughts! 😃🚀  
+
