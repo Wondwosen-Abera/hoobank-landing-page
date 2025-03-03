@@ -6,7 +6,9 @@
 
 🔗 Live Demo: [Here](https://hoobankhome.netlify.app/)  
 
-📌 Features  
+📌 Features
+
+  
 ✅ Fully Responsive – Works on all devices, from mobile to desktop.    
 ✅ Modern UI/UX – Clean and visually appealing design.  
 ✅ Tailwind CSS Utility Classes – Fast and efficient styling.    
