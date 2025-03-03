@@ -1,4 +1,4 @@
-## 🌟 Hoobank - Modern Responsive Landing Page  
+## 🌟 Hoobank - Modern Responsive Landing Page    
 
 ![Hoobank Desktop Demo](./website-demo-image/Hoobank.png "Desktop Demo")  
 
@@ -13,13 +13,13 @@
 ✅ React Components – Modular and reusable components for scalability.    
 ✅ Smooth Animations – Engaging user interactions.  
 
-🛠️ Technologies Used
-⚛️ React – Component-based UI development
-🎨 Tailwind CSS – Rapid styling with utility classes
-⚡ Vite – Super-fast development and hot reloading
+🛠️ Technologies Used  
+⚛️ React – Component-based UI development  
+🎨 Tailwind CSS – Rapid styling with utility classes  
+⚡ Vite – Super-fast development and hot reloading  
 
-🚀 Installation & Setup  
-1️⃣ Clone the repository
+🚀 Installation & Setup    
+1️⃣ Clone the repository  
 
 ```bash
 git clone https://github.com/Wondwosen-Abera/hoobank-landing-page.git
@@ -44,5 +44,5 @@ npm run dev
 npm run build
 ```
 
-👏 Feel free to fork, star ⭐, and contribute!  
+👏 Feel free to fork, star ⭐, and contribute!    
 Would love to hear your thoughts! 😃🚀
