@@ -6,7 +6,8 @@
 
 🔗 Live Demo: [Here](https://hoobankhome.netlify.app/)
 
-📌 Features  
+📌 Features
+
 ✅ Fully Responsive – Works on all devices, from mobile to desktop.  
 ✅ Modern UI/UX – Clean and visually appealing design.  
 ✅ Tailwind CSS Utility Classes – Fast and efficient styling.  
@@ -14,11 +15,13 @@
 ✅ Smooth Animations – Engaging user interactions.
 
 🛠️ Technologies Used
-⚛️ React – Component-based UI development
-🎨 Tailwind CSS – Rapid styling with utility classes
+
+⚛️ React – Component-based UI development  
+🎨 Tailwind CSS – Rapid styling with utility classes  
 ⚡ Vite – Super-fast development and hot reloading
 
-🚀 Installation & Setup  
+🚀 Installation & Setup
+
 1️⃣ Clone the repository
 
 ```bash
@@ -44,5 +47,6 @@ npm run dev
 npm run build
 ```
 
-👏 Feel free to fork, star ⭐, and contribute!  
+👏 Feel free to fork, star ⭐, and contribute!
+
 Would love to hear your thoughts! 😃🚀
