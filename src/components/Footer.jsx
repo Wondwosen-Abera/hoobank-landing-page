@@ -50,11 +50,11 @@ const Footer = () => {
         <hr className="horizontal-line" />
         <div className="flex-col space-y-8 mt-[15px] sm:mt-[30px] sm:flex md:flex-row md:justify-between md:items-center md:space-y-0">
           <div className="flex items-center justify-center gap-[6px] sm:gap-[15px]">
-            <span className="font-[Abel] font-normal text-lg text-dim-white">
+            <span className="font-[Abel] font-normal text-sm sm:text-lg text-dim-white">
               Copyright
             </span>
-            <span className="text-dim-white">&copy;</span>
-            <span className="font-normal text-lg text-dim-white">
+            <span className="text-dim-white text-sm sm:text-lg">&copy;</span>
+            <span className="font-normal text-sm sm:text-lg text-dim-white">
               2025 HooBank. All Rights Reserved.
             </span>
           </div>
